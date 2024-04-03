@@ -1,8 +1,8 @@
 {
   "name": "basic-nest",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "experiment with nestjs",
+  "author": "rizal suryawan",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
